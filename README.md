@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **skill development**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently looking for jobs and opportunities!
+
+- 👨‍💻 Visit my portfolio website at [https://FrozenSamurai.github.io/](https://FrozenSamurai.github.io/)
 
 - 💬 Ask me about **Web development and React-Native**
 
